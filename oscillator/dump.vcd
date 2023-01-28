@@ -1,0 +1,25 @@
+$date
+	Fri Jan 20 06:41:04 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module main $end
+$var wire 1 ! o $end
+$scope module oscillator $end
+$var wire 1 ! o $end
+$var wire 1 " b $end
+$var wire 1 # a $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+z#
+z"
+x!
+$end
+#100
